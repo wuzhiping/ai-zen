@@ -1,0 +1,39 @@
+
+<script>
+    var data = {
+            "id": "3",
+            "library_ids": "",
+            "prompt": "",
+            "robot_avatar": "/upload/default/robot_avatar.png",
+            "robot_intro": "",
+            "robot_key": "T2BQJtJei0",
+            "robot_name": "xyz",
+            "yunpc_fast_command_switch": "1",
+            "openid": "PbIG6LXtQzQ4hv41v",
+            "welcomes": {
+                "content": "你好，欢迎咨询！",
+                "question": []
+            },
+            "comand_list": [],
+            "app_id": -2,
+            "is_sending": false,
+
+            "sdkFloatAvatar": "data:image/svg+xml,%3csvg%20width='62'%20height='62'%20viewBox='0%200%2062%2062'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='31'%20cy='31'%20r='31'%20fill='url(%23paint0_linear_930_6995)'/%3e%3cpath%20d='M39%2036.3346C41.9455%2036.3346%2044.3333%2033.9468%2044.3333%2031.0013C44.3333%2028.0558%2041.9455%2025.668%2039%2025.668'%20stroke='%23F2F4FF'%20stroke-width='2.66667'%20stroke-linejoin='round'/%3e%3cpath%20d='M23.0013%2025.668C20.0558%2025.668%2017.668%2028.0558%2017.668%2031.0013C17.668%2033.9468%2020.0558%2036.3346%2023.0013%2036.3346'%20stroke='%23F2F4FF'%20stroke-width='2.66667'%20stroke-linejoin='round'/%3e%3cpath%20d='M23%2036.3346V36.0013V34.3346V31.0013V25.668C23%2021.2497%2026.5817%2017.668%2031%2017.668C35.4183%2017.668%2039%2021.2497%2039%2025.668V36.3346C39%2040.7529%2035.4183%2044.3346%2031%2044.3346'%20stroke='%23F2F4FF'%20stroke-width='2.66667'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cdefs%3e%3clinearGradient%20id='paint0_linear_930_6995'%20x1='31'%20y1='0'%20x2='31'%20y2='62'%20gradientUnits='userSpaceOnUse'%3e%3cstop%20stop-color='%23336DFF'/%3e%3cstop%20offset='1'%20stop-color='%23495EFF'/%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e"
+        };
+    window.parent.postMessage({ action: 'init',data: data},"*");
+       //console.dir(window.parent);
+       //console.log('init', data);
+  
+    function handleClick(){
+        window.parent.postMessage({ action: 'closeChat',data:{}},"*");
+        //console.log('close');
+    }
+
+    window.addEventListener("message",function(e){
+	    let s = e.data;
+	    s && (s.action === "openWindow" && (document.getElementById("parent").innerHTML = s.data.href));
+	    console.dir(s.action);
+    }, !1 );
+
+</script>
+<div><span id="parent">chat</span><button onclick="handleClick()">close</button></div>
