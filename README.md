@@ -51,3 +51,15 @@ ollama create qwen3n -f qwen3n.Modelfile
 ![EA](./WechatIMG322.jpg "Progressive Framework L1-L4 for everyone")
 
 ![认知](./IMG_9548.jpeg "cognition")
+
+![263759c6cc24be5039d7b558a35e1807](https://github.com/user-attachments/assets/6986da37-9d60-4350-b6f7-b9de31c409ff)
+
+![f44340cdc2fed2459f05f9716c8eb81a](https://github.com/user-attachments/assets/3a8695a8-16fd-469d-9eac-3e406d32f1dc)
+
+![b8eba24054d8b3af61578b2c5db9de3a](https://github.com/user-attachments/assets/1dd7b5bb-b17e-4496-881e-afe5553e5855)
+
+![fceb5b8bbeb20d4ccf89e07c1d5ddd97](https://github.com/user-attachments/assets/665d69ca-0e2f-4dcd-b3a5-7aa1b6b5ee60)
+
+![281e1bcbb4b97f788e6453c6afe54bb1](https://github.com/user-attachments/assets/229f0358-c5d3-4121-96bb-dd0950b16b3f)
+
+![013edda4005b6a44bbd9723fe0367eba](https://github.com/user-attachments/assets/c146c296-5fc3-4011-b227-811c4bcc8836)
