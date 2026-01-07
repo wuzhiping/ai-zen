@@ -67,3 +67,6 @@ ollama create qwen3n -f qwen3n.Modelfile
 <img width="2670" height="1570" alt="1eec4a5dc79b70c60653afaf45249a1b" src="https://github.com/user-attachments/assets/8f1108e9-1181-4671-a0b6-74690939c0de" />
 
 ![35df4e63826eb3b544039668441c60d8](https://github.com/user-attachments/assets/812cd578-06a5-4bb4-8619-a195873fee36)
+
+![02e9b04e6a026d51b84e6f4df9e4d42a](https://github.com/user-attachments/assets/a535bd19-6f4b-4876-a4e4-62c38a0c4e2e)
+
