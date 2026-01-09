@@ -70,3 +70,7 @@ ollama create qwen3n -f qwen3n.Modelfile
 
 ![02e9b04e6a026d51b84e6f4df9e4d42a](https://github.com/user-attachments/assets/a535bd19-6f4b-4876-a4e4-62c38a0c4e2e)
 
+![3daa48542c04eceeac402ec3c84c3029](https://github.com/user-attachments/assets/efb24155-5f97-4f50-9d2f-80b1ab7a24b1)
+
+![adc186ee356f485e06685dc7085382d5](https://github.com/user-attachments/assets/a8237ffa-19b4-4f85-b370-d647c762788c)
+
