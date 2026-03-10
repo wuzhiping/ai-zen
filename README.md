@@ -1,5 +1,7 @@
 # ai-zen
 Progressive Framework for Agentic EA
+![DDD](https://github.com/user-attachments/assets/7bd73708-bd17-4551-a368-a362fb5df3d8)
+
 
 # ollama 4 brew
 <pre>
