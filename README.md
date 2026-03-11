@@ -1,7 +1,6 @@
 # ai-zen
 Progressive Framework for Agentic EA
-![DDD](https://github.com/user-attachments/assets/7bd73708-bd17-4551-a368-a362fb5df3d8)
-
+<img width="2832" height="2288" alt="DDD" src="https://github.com/user-attachments/assets/bde67734-694e-424d-b143-5088eadfcd46" />
 
 # ollama 4 brew
 <pre>
@@ -25,7 +24,7 @@ vi homebrew.mxcl.ollama.plist
     <key>OLLAMA_KEEP_ALIVE</key>
     <string>72h</string>
     <key>OLLAMA_NUM_THREADS</key>
-    <string>16</string>
+    <string>32</string>
     <key>OLLAMA_CONTEXT_LENGTH</key>
     <string>20480</string>
     <key>OLLAMA_HOST</key>
