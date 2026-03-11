@@ -1,6 +1,6 @@
 # ai-zen
 Progressive Framework for Agentic EA
-<img width="2832" height="2288" alt="DDD" src="https://github.com/user-attachments/assets/bde67734-694e-424d-b143-5088eadfcd46" />
+<img width="2832" height="2384" alt="DDD" src="https://github.com/user-attachments/assets/311710ee-8f06-4f91-ae05-7bd498ffc107" />
 
 # ollama 4 brew
 <pre>
