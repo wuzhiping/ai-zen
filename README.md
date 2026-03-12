@@ -1,6 +1,12 @@
 # ai-zen
 Progressive Framework for Agentic EA
+## 手里有图
+<img width="2896" height="2552" alt="DAO" src="https://github.com/user-attachments/assets/6d2e9908-0404-4e7a-9cdd-36f3e71c7fba" />
+---
+## 心里有谱
 <img width="2832" height="2384" alt="DDD" src="https://github.com/user-attachments/assets/a146f60d-b7f0-4782-8b43-ed4638fc6d3c" />
+---
+## 脚下有路
 ---
 # ollama 4 brew
 <pre>
