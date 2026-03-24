@@ -10,7 +10,7 @@ Progressive Framework for Agentic EA
 [aTeam with V-RPC](https://github.com/wuzhiping/ranch)
 
 ![ZEN](https://github.com/user-attachments/assets/ba660309-7dee-481f-bad4-6410b8e51496)
-![DAO](https://github.com/user-attachments/assets/f311f629-efef-4a5a-b15c-a455559119df)
+<img width="2896" height="2552" alt="DAO" src="https://github.com/user-attachments/assets/60c82406-d86f-4301-ae95-32a1782f5586" />
 ![DDD](https://github.com/user-attachments/assets/2b1d0b93-30bd-4d2f-a733-8de8f8e8e96f)
 
 
