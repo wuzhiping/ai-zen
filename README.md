@@ -1,11 +1,11 @@
 # ai-zen
 Progressive Framework for Agentic EA
 ## 手里有图 心里有谱 脚下有路
-* 知识域（Knowledge Domain）给Agent一张地图
-* 运行时 (Runtime Sandbox) 赋予Agent感知力
-* 白盒抽象(White-box Abstraction) 消除上下文黑盒
-* 机构防腐(Architectural Anti-corruption) 机械化强制执行
-* 合流哲学(Merge Philosophy) 高吞吐量合并机制
+* 教学 知识域（Knowledge Domain）给Agent一张地图
+* 工具 运行时 (Runtime Sandbox) 赋予Agent感知力
+* 边界 白盒抽象(White-box Abstraction) 消除上下文黑盒
+* 流程 机构防腐(Architectural Anti-corruption) 机械化强制执行
+* 闭环 合流哲学(Merge Philosophy) 高吞吐量合并机制
   
 [aTeam with V-RPC](https://github.com/wuzhiping/ranch)
 
