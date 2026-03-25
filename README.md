@@ -23,12 +23,12 @@ hdiutil attach oMLX-0.2.20-macos26-tahoe.dmg
 ls "/Volumes/oMLX/oMLX.app" 
 cp -R "/Volumes/oMLX/oMLX.app" /Applications/
 hdiutil detach "/Volumes/oMLX"
+
 xattr -cr /Applications/oMLX.app
 
-# 禁用自动更新（安装时跳过 update）
+# homebrew 方式（未测试）
 export HOMEBREW_NO_AUTO_UPDATE=1
 
-# 使用中科大镜像
 export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.ustc.edu.cn/brew.git"
 export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.ustc.edu.cn/homebrew-core.git"
 export HOMEBREW_BOTTLE_DOMAIN="https://mirrors.ustc.edu.cn/homebrew-bottles"
