@@ -15,6 +15,10 @@ Progressive Framework for Agentic EA
 
 # oMLX
 ```
+sw_vers -productVersion
+
+https://github.com/jundot/omlx/releases
+
 hdiutil attach oMLX-0.2.20-macos26-tahoe.dmg
 ls "/Volumes/oMLX/oMLX.app" 
 cp -R "/Volumes/oMLX/oMLX.app" /Applications/
