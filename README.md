@@ -15,6 +15,12 @@ Progressive Framework for Agentic EA
 
 # oMLX
 ```
+hdiutil attach oMLX-0.2.20-macos26-tahoe.dmg
+ls "/Volumes/oMLX/oMLX.app" 
+cp -R "/Volumes/oMLX/oMLX.app" /Applications/
+hdiutil detach "/Volumes/oMLX"
+xattr -cr /Applications/oMLX.app
+
 # 禁用自动更新（安装时跳过 update）
 export HOMEBREW_NO_AUTO_UPDATE=1
 
