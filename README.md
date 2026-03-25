@@ -13,6 +13,27 @@ Progressive Framework for Agentic EA
 <img width="2896" height="2552" alt="DAO" src="https://github.com/user-attachments/assets/60c82406-d86f-4301-ae95-32a1782f5586" />
 ![DDD](https://github.com/user-attachments/assets/2b1d0b93-30bd-4d2f-a733-8de8f8e8e96f)
 
+# oMLX
+```
+# 禁用自动更新（安装时跳过 update）
+export HOMEBREW_NO_AUTO_UPDATE=1
+
+# 使用中科大镜像
+export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.ustc.edu.cn/brew.git"
+export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.ustc.edu.cn/homebrew-core.git"
+export HOMEBREW_BOTTLE_DOMAIN="https://mirrors.ustc.edu.cn/homebrew-bottles"
+
+# 然后重新尝试
+brew tap jundot/omlx https://github.com/jundot/omlx
+
+brew install omlx
+
+# Upgrade to the latest version
+brew update && brew upgrade omlx
+
+# Run as a background service (auto-restarts on crash)
+brew services start omlx
+```
 
 # ollama 4 brew
 <pre>
