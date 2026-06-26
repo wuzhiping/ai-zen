@@ -5,6 +5,7 @@
   <strong>vRPC 为人类和 Agent 共同协作而生。</strong>
 </p>
 
+[Open Knowledge Format (OKF)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
 ---
 
 面向 **人类 + Agent 团队** 的 agent-native 协作工作空间。
