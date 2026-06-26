@@ -228,7 +228,6 @@ vRPC 包含可复用的执行构件：
 - 远程 daemon、runtime sharing、AgentRouter harness switching、OpenClaw provider health 和 Hermes Agent support
 - agent-scoped Workspace OAuth、Sheets 创建/回写、runtime output CLI 和 permission center
 - 更强的 AgentRouter 平台会话
-- 更深入的 OpenClaw provider 加固
 - 多 Agent 隔离和 sandbox policy layer
 - 更完整的 integration adapter contract
 - runtime tool marketplace 和更多 agent-native app harnesses
